@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/base
 echo 'Best School'
+=======
+#!/bin/bash
+Best School
+>>>>>>> 764eae8ac17e36dbddf2c6d88024f4a9afa4477f
